@@ -4,7 +4,7 @@ Academic project documentation covering transistor characterization, CMOS logic 
 
 **Focus:** cell-level layout, DRC/LVS, RC extraction, and schematic versus post-layout timing comparisons.
 
-[Download report (PDF)](doc/CMOS_Logic_Layout_Report.pdf?raw=true) · [Download report (Word)](doc/CMOS_Logic_Layout_Report.docx?raw=true)
+[Download report (PDF)](https://github.com/phung-gia-huy/cmos-logic-layout-analysis/raw/refs/heads/main/doc/CMOS_Logic_Layout_Report.pdf) · [Download report (Word)](https://github.com/phung-gia-huy/cmos-logic-layout-analysis/raw/refs/heads/main/doc/CMOS_Logic_Layout_Report.docx)
 
 ![Full-adder layout with the DRC result shown in the report](images/full-adder-drc.png)
 
